@@ -1,0 +1,6 @@
+framework module Pods_Count_1064 {
+  umbrella header "Pods-Count 1064-umbrella.h"
+
+  export *
+  module * { export * }
+}
